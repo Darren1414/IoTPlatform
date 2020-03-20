@@ -1,0 +1,14 @@
+.DS_Store
+*.pyc
+*.log
+*.log.*
+*.idea
+*.iml
+logs
+node_modules
+target
+*.project
+*.classpath
+*.prefs
+.settings
+dist
